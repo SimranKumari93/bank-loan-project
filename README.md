@@ -1,11 +1,11 @@
-The problem statement is about building a Bank Loan Report Dashboard to monitor and evaluate lending activities.
+## Problem Statement
 
-It aims to:
+This project focuses on building a **Bank Loan Report Dashboard** to monitor and evaluate lending activities.  
+It addresses the need for better visibility into loan performance by:
 
-Track key KPIs like loan applications, funded amounts, repayments, interest rates, and debt-to-income ratios.
+- Tracking key KPIs: loan applications, funded amounts, repayments, interest rates, and DTI ratios.  
+- Classifying loans into **Good vs Bad** to assess portfolio quality.  
+- Providing visual insights through charts on trends, regions, loan terms, employment, purpose, and home ownership.  
+- Offering a **detailed dashboard** for borrower profiles and loan performance.  
 
-Classify loans into Good vs Bad to assess portfolio quality.
-
-Provide visual insights via charts (trends, regional analysis, loan terms, employment length, loan purpose, home ownership).
-
-Offer a detailed dashboard for quick access to borrower and loan performance data.
+The goal is to enable **data-driven decisions** and improve strategic planning in lending operations.
